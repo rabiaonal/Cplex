@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cplex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cplex_jar</output-path>
+    <root id="archive" name="Cplex.jar">
+      <element id="module-output" name="Cplex" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../../Program Files/IBM/ILOG/CPLEX_Studio201/cplex/lib/cplex.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../java excel jar/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../java excel jar/poi-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../java excel jar/poi-ooxml-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../java excel jar/poi-ooxml-schemas-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../java excel jar/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="x64_win64" />
+    </root>
+  </artifact>
+</component>
